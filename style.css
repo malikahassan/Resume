@@ -16,6 +16,7 @@ body {
   background-color: #f2f2f2;
 }
 
+
 /* Header Section */
 
 .header-font {
@@ -78,7 +79,7 @@ menu {
   transition-delay: 1s;
 }
 
-.nav-links a:active, a:visited, 
+.nav-links a:link, a:visited, 
 a:hover {
   color: white;
 }
