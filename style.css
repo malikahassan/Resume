@@ -71,7 +71,6 @@ menu {
 }
 
 .nav-links:hover {
-  color: white;
   background-color: #4ac4bd;
   transition-property: background-color;
   transition-duration: 2s;
