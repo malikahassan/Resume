@@ -72,14 +72,15 @@ menu {
 
 .nav-links:hover {
   color: white;
-  background-color: #ff668e;
+  background-color: #4ac4bd;
   transition-property: background-color;
   transition-duration: 2s;
   transition-timing-function: linear;
   transition-delay: 1s;
 }
 
-.nav-links a:visited {
+.nav-links a:active, a:visited, 
+a:hover {
   color: white;
 }
 
